@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Task_9_m {
+public class Task_7_m {
     public static void main(String[] args) {
         int[] vector = {5, 6, 7, 8, 9, 10, 11, 12, 13, 14};
         Scanner sc = new Scanner(System.in);
